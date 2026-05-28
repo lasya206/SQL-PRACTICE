@@ -2,7 +2,8 @@
 
 ### SQL Practice Progress 🚀
 
-I’ve achieved **Bronze Level (85 points)** in SQL on HackerRank.
+I’ve achieved **Gold Level (730 points)** in SQL on HackerRank.
+I’ve successfully cleared the **SQL (Basic) Certification Test 🎉**.
 
 This journey includes solving problems related to:
 
